@@ -11,6 +11,12 @@ export default function Card(props) {
     console.log("OKOKOKOK", flag, "<<<<<<<<", props.index);
     console.log("OKOKOKOK", flag, "<<<<<<<<", props.index);
     console.log("OKOKOKOK", flag, "<<<<<<<<", props.index);
+    console.log("OKOKOKOK", flag, "<<<<<<<<", props.index);
+    console.log("OKOKOKOK", flag, "<<<<<<<<", props.index);
+    console.log("OKOKOKOK", flag, "<<<<<<<<", props.index);
+    console.log("OKOKOKOK", flag, "<<<<<<<<", props.index);
+    console.log("OKOKOKOK", flag, "<<<<<<<<", props.index);
+    console.log("OKOKOKOK", flag, "<<<<<<<<", props.index);
   }
   function gakjadi(data, e) {
     flag = false;
